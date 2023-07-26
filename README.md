@@ -17,4 +17,4 @@
 
 ### Abrimos visual studio code y y creamos un index; ponemos la estructura base y creamos una lista desordenada que luego será nuestro encabezado de búsqueda en la página
 
-![image](https://github.com/SofiaHdzAlv22/COSECHAS/assets/127440770/9695ec89-139f-4519-8f65-989f137c2836)
+![image](https://github.com/SofiaHdzAlv22/COSECHAS/assets/127440770/9695ec89-139f-4519-8f65-989f137c2836)ff
