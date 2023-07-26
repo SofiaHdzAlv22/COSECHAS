@@ -17,4 +17,16 @@
 
 ### Abrimos visual studio code y y creamos un index; ponemos la estructura base y creamos una lista desordenada que luego será nuestro encabezado de búsqueda en la página
 
-![image](https://github.com/SofiaHdzAlv22/COSECHAS/assets/127440770/9695ec89-139f-4519-8f65-989f137c2836)ff
+![image](https://github.com/SofiaHdzAlv22/COSECHAS/assets/127440770/9695ec89-139f-4519-8f65-989f137c2836)
+
+### Luego, añadimos la imagen de los iconos de las redes sociales tales como, instragram, facebook, whatsapp y el link que lleva a ellos
+
+![image](https://github.com/SofiaHdzAlv22/COSECHAS/assets/127440770/271fe151-cc8e-4dee-86fc-2c8063118579)
+
+### A continuacion, agregamos el logo de cosechas el que ira a la mitad de la parte superior y su fondo tambien lo agregamos
+
+![Captura](https://github.com/SofiaHdzAlv22/COSECHAS/assets/127440770/d438c291-b8c8-4516-a4b3-04acfa0b2497)
+
+
+
+
